@@ -3,12 +3,12 @@
 
 @font-face {
     font-family: 'Bebas Neue';
-    src: url(origem-do-bugdroid/fontes/BebasNeue-Regular.ttf);
+    src: url(fontes/BebasNeue-Regular.ttf);
 }
 
 @font-face {
     font-family: 'Android';
-    src: url(origem-do-bugdroid/fontes/idroid.otf);
+    src: url(fontes/idroid.otf);
 }
 
 
