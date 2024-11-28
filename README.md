@@ -9,3 +9,6 @@
 <a href="house-of-the-dragon/" target="blank" rel="external">Projeto-04/house-of-the-dragon</a>
 
 <a href="pokedevs/" target="blank" rel="external">Projeto-05/pokedevs</a>
+
+<a href="cordel-moderno/" target="blank" rel="external">Projeto-06/cordel-moderno</a>
+
